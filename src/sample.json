@@ -1,0 +1,96 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "'There are no minor incursions' pleads Ukraine leader after Biden remarks - Reuters",
+    "description": "Western countries sought to project unity over Ukraine on Thursday, after U.S. President Joe Biden suggested allies were split over how to react to any \"minor incursion\" from Russia, prompting Kyiv's leader to plead that there was no such thing.",
+    "url": "https://www.reuters.com/world/blinken-arrives-berlin-ukraine-talks-with-european-allies-2022-01-20/",
+    "urlToImage": "https://www.reuters.com/resizer/RKzpUDicCFklq_Lyjnthj_AQYFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RCX4UM2ZNVMKTKDKP3KZVQ4SEM.jpg",
+    "publishedAt": "2022-01-20T16:33:00Z",
+    "content": "BERLIN/KYIV, Jan 20 (Reuters) - Western countries sought to project unity over Ukraine on Thursday, after U.S. President Joe Biden suggested allies were split over how to react to any \"minor incursio… [+5060 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Jason Horowitz, Elisabetta Povoledo, Gaia Pianigiani",
+    "title": "Benedict Faulted for Handling of Abuse Cases When He Was an Archbishop - The New York Times",
+    "description": "A newly released report by a law firm said the former pope failed to discipline priests in at least four cases of sexual abuse accusations in Germany.",
+    "url": "https://www.nytimes.com/2022/01/20/world/europe/benedict-germany-sexual-abuse.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/01/20/multimedia/20germany-church-02/20germany-church-02-facebookJumbo.jpg",
+    "publishedAt": "2022-01-20T16:30:27Z",
+    "content": "In reiterating the sense of shame and remorse for the abuse of minors committed by clerics, Mr. Bruni said, the Holy See ensures its closeness to all the victims and confirms the path taken to protec… [+1462 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Maggie Astor",
+    "title": "Massachusetts Attorney General Maura Healey Enters Governor’s Race - The New York Times",
+    "description": "Ms. Healey, a Democrat, is the best known of the candidates who are running to replace Gov. Charlie Baker, a Republican who is not seeking re-election.",
+    "url": "https://www.nytimes.com/2022/01/20/us/politics/massachusetts-governor-maura-healey.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/01/20/multimedia/massgov-healey11/massgov-healey11-facebookJumbo.jpg",
+    "publishedAt": "2022-01-20T16:12:00Z",
+    "content": "Ms. Healey, 50, was elected to the attorney generals office in 2014 and re-elected in 2018, by wide margins both times. She was the first openly gay attorney general in the United States.\r\nLike many … [+1082 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Super Bowl Halftime Show Drops Hype Vid With Dr. Dre, Eminem, Mary J. Blige - TMZ",
+    "description": "The Super Bowl Halftime Show got the Hollywood movie trailer treatment ... and it's awesome.",
+    "url": "https://www.tmz.com/2022/01/20/super-bowl-halftime-show-hype-video-dr-dre-eminem-mary-j-blige/",
+    "urlToImage": "https://imagez.tmz.com/image/87/16by9/2022/01/20/873b031ae2224563a8471a7ed707e524_xl.jpg",
+    "publishedAt": "2022-01-20T15:46:00Z",
+    "content": "The Super Bowl is still a few weeks away, but you can start losing your minds for the halftime show now ... 'cause the official trailer for the big event just dropped -- and it's awesome!!\r\nDr. Dre, … [+976 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Russell Westbrook 'would be gone TOMORROW' if his contract was movable - Stephen A. | Get Up - ESPN",
+    "description": "Stephen A. Smith stops by on Get Up to discuss his thoughts on the Los Angeles Lakers HC Frank Vogel benching Russell Westbrook late in their matchup against...",
+    "url": "https://www.youtube.com/watch?v=nVvJgjyQxS4",
+    "urlToImage": "https://i.ytimg.com/vi/nVvJgjyQxS4/maxresdefault.jpg",
+    "publishedAt": "2022-01-20T15:45:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Dr. Aubrie Ford",
+    "title": "Many COVID-19 vaccine side effects caused by placebo effect: Study - ABC News",
+    "description": "",
+    "url": "https://abcnews.go.com/Health/covid-19-vaccine-side-effects-caused-placebo-effect/story?id=82355113",
+    "urlToImage": "https://s.abcnews.com/images/Health/covid-s_hpMain_20220120-000012_16x9_992.jpg",
+    "publishedAt": "2022-01-20T15:42:42Z",
+    "content": "Many continue to worry about experiencing side effects from vaccines -- especially the COVID-19 vaccines -- but new data from a comprehensive meta-analysis suggests there is little to fear.\r\nThe stud… [+2753 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jeff Cox",
+    "title": "Jobless claims jump to 286,000, the highest level since October - CNBC",
+    "description": "Initial filings totaled 286,000, well above the estimate of 225,000 and a substantial gain from the previous week's 231,000.",
+    "url": "https://www.cnbc.com/2022/01/20/jobless-claims-jump-to-286000-highest-level-since-october.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107000918-1642102133977-gettyimages-1237704172-AFP_9W49HQ.jpeg?v=1642102183",        "publishedAt": "2022-01-20T13:33:42Z",
+    "content": "Jobless claims took an unexpected turn higher last week in a potential sign that the wintertime omicron surge was hitting the employment picture.\r\nInitial filings for the week ended Jan. 15 totaled 2… [+2578 chars]"
+    }
+    ]
+    }
