@@ -1,6 +1,6 @@
 # NewsHunt
 
-Stay informed in real-time with global news. Access up-to-date updates worldwide. The platform curates diverse sources, ensuring quick and efficient access to current news. Stay connected, and save time
+Stay informed in real-time with global news. Access up-to-date updates worldwide. The platform curates diverse sources, ensuring quick and efficient access to current news. Stay connected, and save time.
 
 ![NM1](https://github.com/Sajalsk/NewsHunt/assets/86351716/a74a111b-d4cb-4ee5-b218-d9ea25badc17)
 
