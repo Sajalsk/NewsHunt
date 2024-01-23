@@ -5,21 +5,21 @@ import InfiniteScroll from "react-infinite-scroll-component";
 import PropTypes from "prop-types";
 
 const News = (props) => {
+
+
   const [articles, setarticles] = useState([]);
   const [loading, setloading] = useState(true);
   const [page, setpage] = useState(1);
   const [totalResults, settotalResults] = useState(0);
-  const [Search, setSearch] = useState("");
+  // const [Search, setSearch] = useState("");
 
   const updateNews = async () => {
-    props.setProgress(0);
-    const url = `https://newsapi.org/v2/top-headlines?country=${
-      props.country
-    }&category=${props.category}&apiKey=9e67673ace6b407f98542ac615ce1121&page=${
-      page + 1
-    }&pageSize=${props.pageSize}`;
 
-    setloading({loading: true });
+    props.setProgress(0);
+
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=9e67673ace6b407f98542ac615ce1121&page=${page}&pageSize=${props.pageSize}`;
+
+    setloading({ loading: true });
     let data = await fetch(url);
     props.setProgress(30);
 
@@ -39,7 +39,7 @@ const News = (props) => {
   }, []);
 
   const fetchMoreData = async () => {
-    // console.log("fetch more data triggered");
+   
     setpage(page + 1);
 
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=9e67673ace6b407f98542ac615ce1121&page=${page}&pageSize=${props.pageSize}`;
@@ -50,26 +50,29 @@ const News = (props) => {
     setarticles(articles.concat(parsedData.articles));
     settotalResults(parsedData.totalResults);
   };
+
   return (
     <>
+
       <div className="text-center" style={{ margin: "75px" }}>
         <h2>News Monkey - Top Headlines</h2>
       </div>
 
       <InfiniteScroll
+
         dataLength={articles.length}
         next={fetchMoreData}
         hasMore={articles.length !== totalResults}
         loader={<Spinner />}
       >
         <div className="container">
+
           <div className="row">
             {" "}
             {articles
               .filter((value) => {
-                // console.log(value, props.searchQuery)
                 if (props.searchQuery !== "") {
-                  return value.title.toLowerCase().includes(props.searchQuery);
+                  return value.title.includes(props.searchQuery);
                 } else {
                   return value;
                 }
@@ -77,6 +80,7 @@ const News = (props) => {
               .map((element) => {
                 return (
                   <div className="col md-4" key={element.url}>
+                    
                     <NewsItem
                       title={element.title}
                       description={
@@ -95,6 +99,7 @@ const News = (props) => {
               })}
           </div>
         </div>
+
       </InfiniteScroll>
     </>
   );
